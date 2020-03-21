@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.1022
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GeomMod", "GeomMod.vcxproj", "{5675406E-8128-4C50-A3F1-43FC8D965A0B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5675406E-8128-4C50-A3F1-43FC8D965A0B}.Debug|x64.ActiveCfg = Debug|x64
+		{5675406E-8128-4C50-A3F1-43FC8D965A0B}.Debug|x64.Build.0 = Debug|x64
+		{5675406E-8128-4C50-A3F1-43FC8D965A0B}.Debug|x86.ActiveCfg = Debug|Win32
+		{5675406E-8128-4C50-A3F1-43FC8D965A0B}.Debug|x86.Build.0 = Debug|Win32
+		{5675406E-8128-4C50-A3F1-43FC8D965A0B}.Release|x64.ActiveCfg = Release|x64
+		{5675406E-8128-4C50-A3F1-43FC8D965A0B}.Release|x64.Build.0 = Release|x64
+		{5675406E-8128-4C50-A3F1-43FC8D965A0B}.Release|x86.ActiveCfg = Release|Win32
+		{5675406E-8128-4C50-A3F1-43FC8D965A0B}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {75C9D092-1894-4590-B0C8-BA24EDA2FB00}
+	EndGlobalSection
+EndGlobal
